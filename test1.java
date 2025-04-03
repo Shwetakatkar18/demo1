@@ -6,8 +6,8 @@ public class numbers{
 			System.out.println("Enter two numbers");
 		int num1= sc.nextInt();
 		int num2= sc.nextInt();
-		int add= num1+num2;
-		System.out.println("Addition of two numbers are:");
+		int sub= num1-num2;
+		System.out.println("subtraction of two numbers are:");
 		sc.close();
 	}
 }
